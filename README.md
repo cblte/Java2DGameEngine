@@ -1,9 +1,9 @@
 # Java2DGameEngine
 
-This is a simple Java 2D game engine. I am following the video series https://www.youtube.com/watch?v=4iPEjFUZNsw from Majoolwip.
+This is a simple 2D game engine written in Java. I am following the video series [2D Java Game Engine](https://www.youtube.com/watch?v=4iPEjFUZNsw) from Majoolwip.
 
 ## Progress
 
-- Freitag, 2. Februar 2018
-	initial repository creation and first video
+- 2018-02-02
+	initial repository creation and done with the first video
 	 
